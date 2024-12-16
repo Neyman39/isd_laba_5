@@ -11,7 +11,7 @@ namespace IncomeTest
         [TestMethod]
         public void TestStringEnteredCorrectly()
         {
-            string expected = "Доходы компании:\n Дата: 2023.05.01\n Источник: Сдача гаража в аренду\n Сумма: 35000 р\n Тип операции: Перевод на сбер\n";
+            string expected = "Дохды компании:\n Дата: 2023.05.01\n Источник: Сдача гаража в аренду\n Сумма: 35000 р\n Тип операции: Перевод на сбер\n";
             string str = "\"Доходы компании\" 2023.05.01 \"Сдача гаража в аренду\" 35000 \"Перевод на сбер\"";
 
             string actual = FactoryIncome.fromStr(str).LineOutput();

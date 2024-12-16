@@ -5,3 +5,10 @@ C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.csproj.A
 C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.csproj.CoreCompileInputs.cache
 C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.exe
 C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.pdb
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeLaba\bin\Debug\IncomeLaba.exe.config
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeLaba\bin\Debug\IncomeLaba.exe
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeLaba\bin\Debug\IncomeLaba.pdb
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeLaba\obj\Debug\IncomeLaba.csproj.AssemblyReference.cache
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeLaba\obj\Debug\IncomeLaba.csproj.CoreCompileInputs.cache
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeLaba\obj\Debug\IncomeLaba.exe
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeLaba\obj\Debug\IncomeLaba.pdb
