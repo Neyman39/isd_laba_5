@@ -38,3 +38,11 @@ C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\obj\Debug\IncomeTest.cspr
 C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\obj\Debug\IncomeTest.dll
 C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\obj\Debug\IncomeTest.pdb
 C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\obj\Debug\IncomeTest.csproj.Up2Date
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.abstractions.dll
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.assert.dll
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.core.dll
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.abstractions.xml
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.assert.xml
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.core.xml
+C:\Users\neyman\Desktop\ISD_lab5\isd_laba_5\IncomeTest\bin\Debug\xunit.execution.desktop.xml
