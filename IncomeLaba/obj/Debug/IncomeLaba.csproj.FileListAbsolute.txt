@@ -1,0 +1,7 @@
+C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\bin\Debug\IncomeLaba.exe.config
+C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\bin\Debug\IncomeLaba.exe
+C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\bin\Debug\IncomeLaba.pdb
+C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.csproj.AssemblyReference.cache
+C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.csproj.CoreCompileInputs.cache
+C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.exe
+C:\Users\neyman\source\repos\IncomeLaba\IncomeLaba\obj\Debug\IncomeLaba.pdb
