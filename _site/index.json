@@ -1,0 +1,52 @@
+{
+  "README.html": {
+    "href": "README.html",
+    "title": "| doc_isdlab",
+    "keywords": "Исследовании программы полученной в ходе выполнения работы 3 с помощью SonarLint - инструмент статического анализа кода Pre-commit Данный скрипт предназначен для автоматической проверки состояния проекта на этапе коммита. Он выполняет проверку сборки с помощью команды dotnet build и запуск автоматических тестов с помощью dotnet test. Для работы donnet был скачен .NET SDK 9.0"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | doc_isdlab",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | doc_isdlab",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | doc_isdlab",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  },
+  "packages/xunit.2.9.2/_content/README.html": {
+    "href": "packages/xunit.2.9.2/_content/README.html",
+    "title": "About xUnit.net | doc_isdlab",
+    "keywords": "About xUnit.net xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C# and F# (other .NET languages may work as well, but are unsupported). xUnit.net works with Visual Studio, Visual Studio Code, ReSharper, CodeRush, and TestDriven.NET. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license). For project documentation, please visit the xUnit.net project home. New to xUnit.net? Get started with .NET Framework and .NET Core. Need some help building the source? See BUILDING.md. Want to contribute to the project? See CONTRIBUTING.md. Want to contribute to the assertion library? See the suggested contribution workflow in the assertion library project, as it is slightly more complex due to code being spread across two GitHub repositories. Latest Builds Stable Latest CI Build status v2 core framework v3 core framework xunit.analyzers xunit.runner.visualstudio For complete CI package lists, please visit the feedz.io package search. A free login is required."
+  },
+  "packages/xunit.analyzers.1.16.0/_content/README.html": {
+    "href": "packages/xunit.analyzers.1.16.0/_content/README.html",
+    "title": "About This Project | doc_isdlab",
+    "keywords": "About This Project This project contains source code analysis and cleanup rules for xUnit.net. Analysis and fixes are only supported with C#. Requirements: xUnit.net v2 2.0+. Supported in Visual Studio 2019 16.11+ or 2022 17.4+ (as well as via command line builds with Roslyn 3.11+). Other environments (such as Mono or JetBrains Rider) may be able to use these analyzers as well; support and issue resolution will be provided by those third parties and not by xUnit.net itself. Documentation: a list of supported rules is available at https://xunit.net/xunit.analyzers/rules/ Bugs and issues: please visit the core xUnit.net project issue tracker. Building: see BUILDING.md. How to install xUnit.net v2 2.3.0 and higher: the analyzer package is referenced by the main xunit NuGet package out of the box. If you choose to reference xunit.core instead, you can reference xunit.analyzers explicitly. xUnit.net v2 2.2.0 and earlier: you have to install the xunit.analyzers NuGet package explicitly. How to uninstall If you installed xUnit.net v2 2.3.0 or higher and do not wish to use the analyzers package, replace the package reference to xunit with the corresponding versions of xunit.core and xunit.assert Analysis and Code Fix in Action Latest Builds Stable Latest CI Build status v2 core framework v3 core framework xunit.analyzers xunit.runner.visualstudio For complete CI package lists, please visit the feedz.io package search. A free login is required. About xUnit.net xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C# and F# (other .NET languages may work as well, but are unsupported). xUnit.net works with Visual Studio, Visual Studio Code, ReSharper, CodeRush, and TestDriven.NET. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license). For project documentation, please visit the xUnit.net project home."
+  },
+  "packages/xunit.assert.2.9.2/_content/README.html": {
+    "href": "packages/xunit.assert.2.9.2/_content/README.html",
+    "title": "About xUnit.net | doc_isdlab",
+    "keywords": "About xUnit.net xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C# and F# (other .NET languages may work as well, but are unsupported). xUnit.net works with Visual Studio, Visual Studio Code, ReSharper, CodeRush, and TestDriven.NET. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license). For project documentation, please visit the xUnit.net project home. New to xUnit.net? Get started with .NET Framework and .NET Core. Need some help building the source? See BUILDING.md. Want to contribute to the project? See CONTRIBUTING.md. Want to contribute to the assertion library? See the suggested contribution workflow in the assertion library project, as it is slightly more complex due to code being spread across two GitHub repositories. Latest Builds Stable Latest CI Build status v2 core framework v3 core framework xunit.analyzers xunit.runner.visualstudio For complete CI package lists, please visit the feedz.io package search. A free login is required."
+  },
+  "packages/xunit.core.2.9.2/_content/README.html": {
+    "href": "packages/xunit.core.2.9.2/_content/README.html",
+    "title": "About xUnit.net | doc_isdlab",
+    "keywords": "About xUnit.net xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C# and F# (other .NET languages may work as well, but are unsupported). xUnit.net works with Visual Studio, Visual Studio Code, ReSharper, CodeRush, and TestDriven.NET. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license). For project documentation, please visit the xUnit.net project home. New to xUnit.net? Get started with .NET Framework and .NET Core. Need some help building the source? See BUILDING.md. Want to contribute to the project? See CONTRIBUTING.md. Want to contribute to the assertion library? See the suggested contribution workflow in the assertion library project, as it is slightly more complex due to code being spread across two GitHub repositories. Latest Builds Stable Latest CI Build status v2 core framework v3 core framework xunit.analyzers xunit.runner.visualstudio For complete CI package lists, please visit the feedz.io package search. A free login is required."
+  },
+  "packages/xunit.extensibility.core.2.9.2/_content/README.html": {
+    "href": "packages/xunit.extensibility.core.2.9.2/_content/README.html",
+    "title": "About xUnit.net | doc_isdlab",
+    "keywords": "About xUnit.net xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C# and F# (other .NET languages may work as well, but are unsupported). xUnit.net works with Visual Studio, Visual Studio Code, ReSharper, CodeRush, and TestDriven.NET. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license). For project documentation, please visit the xUnit.net project home. New to xUnit.net? Get started with .NET Framework and .NET Core. Need some help building the source? See BUILDING.md. Want to contribute to the project? See CONTRIBUTING.md. Want to contribute to the assertion library? See the suggested contribution workflow in the assertion library project, as it is slightly more complex due to code being spread across two GitHub repositories. Latest Builds Stable Latest CI Build status v2 core framework v3 core framework xunit.analyzers xunit.runner.visualstudio For complete CI package lists, please visit the feedz.io package search. A free login is required."
+  },
+  "packages/xunit.extensibility.execution.2.9.2/_content/README.html": {
+    "href": "packages/xunit.extensibility.execution.2.9.2/_content/README.html",
+    "title": "About xUnit.net | doc_isdlab",
+    "keywords": "About xUnit.net xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C# and F# (other .NET languages may work as well, but are unsupported). xUnit.net works with Visual Studio, Visual Studio Code, ReSharper, CodeRush, and TestDriven.NET. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license). For project documentation, please visit the xUnit.net project home. New to xUnit.net? Get started with .NET Framework and .NET Core. Need some help building the source? See BUILDING.md. Want to contribute to the project? See CONTRIBUTING.md. Want to contribute to the assertion library? See the suggested contribution workflow in the assertion library project, as it is slightly more complex due to code being spread across two GitHub repositories. Latest Builds Stable Latest CI Build status v2 core framework v3 core framework xunit.analyzers xunit.runner.visualstudio For complete CI package lists, please visit the feedz.io package search. A free login is required."
+  }
+}
