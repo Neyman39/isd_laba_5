@@ -7,6 +7,10 @@
 
 ![Alt Text](https://sun9-32.userapi.com/impg/WdjEiJ6OmUZTbpTePc3QfO9GLsSfMz3oearD0Q/oAaLb57Tr10.jpg?size=921x660&quality=96&sign=eade840e87967f3695ea0539559fb911&type=album)
 
+Работа скрипта
+
+![Alt Text](https://sun9-13.userapi.com/impg/WOYCcbjsL0-40ANNUs1R4PmRfDPft__n5rOdjg/XU10mPg3a_k.jpg?size=871x389&quality=96&sign=0f7331ff00a96cad798bcabcf02739f5&type=album)
+
 Данный скрипт предназначен для автоматической проверки состояния проекта на этапе коммита. Он выполняет проверку сборки с помощью команды ***dotnet build*** и запуск автоматических тестов с помощью ***dotnet test***. Для автоматического запуска тестов, в проект был добавлен NuGet - ***XUnit***.
 
 Для работы ***donnet*** был установлен **[.NET SDK 9.0](https://dotnet.microsoft.com/en-us/download)**
